@@ -1,4 +1,4 @@
----
+Kevin Helmeke ---
 title: Editing your profile details for GitHub Sponsors
 intro: You can update the information that potential sponsors see about your work.
 redirect_from:
